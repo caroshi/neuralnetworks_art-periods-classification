@@ -6,11 +6,9 @@ I moved onto a 3 class model, incorporating Impressionism paintings back into th
 
 Going forward, I would like to add in a few additional classes to my model and see if I am able to maintain relatively high scores with minimal overfitting. I would also like to explore fine tuning my transfer learning model to see if I can bring down the val loss. 
 
-Below are plots comparing my 3 class CNN vs VGG16 models:
+![Figure 1-1](threemodeltransfer.png "Figure 1-1")
 
-![Figure 1-1](threemodelcnn.png "Figure 1-1")
-
-![Figure 1-2](threemodeltransfer.png "Figure 1-2")
+![Figure 1-2](confusionmatrix.png "Figure 1-2")
 
 
 
