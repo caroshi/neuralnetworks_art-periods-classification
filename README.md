@@ -1,4 +1,4 @@
-# Exploring NLP with Pitchfork Album Reviews 
+# Classifying Art Periods with Neural Networks 
 
 * [Project Proposal](https://github.com/caroshi/modulesix/blob/master/deliverables/ProjectProposal.md)
 * [Project MVP](https://github.com/caroshi/modulefive/blob/master/deliverables/ProjectMVP.md)
