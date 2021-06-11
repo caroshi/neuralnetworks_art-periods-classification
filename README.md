@@ -2,7 +2,7 @@
 
 * [Project Proposal](https://github.com/caroshi/modulesix/blob/master/deliverables/ProjectProposal.md)
 * [Project MVP](https://github.com/caroshi/modulesix/blob/master/deliverables/ProjectMVP.md)
-* [Project Write-up](https://github.com/caroshi/modulesixe/blob/master/deliverables/ProjectWriteup.md)
+* [Project Write-up](https://github.com/caroshi/modulesix/blob/master/deliverables/ProjectWriteup.md)
 * [Project Deck](https://github.com/caroshi/modulesix/blob/master/deliverables/NeuralNetworks.pdf)
 * Organizing Data Code :
   * [Impressionism + Post-Impressionism](https://github.com/caroshi/modulesix/blob/master/organizing%20data/ImpressionismvsPostImpressionism.ipynb)
